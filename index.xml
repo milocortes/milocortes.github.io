@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Bienvenido</title>
+    <link>https://milocortes.github.io/</link>
+    <description>Recent content in About on Bienvenido</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://milocortes.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://milocortes.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://milocortes.github.io/about/</guid>
+      <description>Acerca de mi  Soy Hermilo. Estudié Economía en la UNAM. Interesado en el Computo de Alto Rendimiento y los Sistemas Distribuidos.
+Actualmente estudio la Maestría en Ciencia e Ingeniería de la Computación en el Instituto de Investigaciones en Matemáticas Aplicadas y en Sistemas, UNAM.
+Educación  Especialización en Cómputo en Alto Rendimiento, UNAM. Maestría en Economía, UNAM. Especialización en Econometría Aplicada, UNAM. Licenciatura en Economía, UNAM.  Experiencia  INEGI, Dirección de Contabilidad Nacional.</description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>https://milocortes.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://milocortes.github.io/contact/</guid>
+      <description> Email: hermilocg@hotmail.com  Social  GitHub Twitter  </description>
+    </item>
+    
+  </channel>
+</rss>
